@@ -1,0 +1,350 @@
+{
+   "about": {
+      "message": "关于"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "addContainerPrompt": {
+      "message": "请输入容器 ID 编号。"
+   },
+   "all": {
+      "message": "全部"
+   },
+   "altServer": {
+      "message": "备用服务器"
+   },
+   "autoBackup": {
+      "message": "自动备份"
+   },
+   "autoBackupDescription": {
+      "message": "保存时自动备份设置到下载文件夹"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "bulkEdit": {
+      "message": "批量编辑"
+   },
+   "city": {
+      "message": "城市"
+   },
+   "closeAll": {
+      "message": "折叠全部"
+   },
+   "color": {
+      "message": "颜色"
+   },
+   "container": {
+      "message": "容器"
+   },
+   "containerDescription": {
+      "message": "无痕模式和容器代理（仅 Firefox）"
+   },
+   "containerProxy": {
+      "message": "容器代理"
+   },
+   "controlledByOtherExtensions": {
+      "message": "设置已被其他扩展程序控制。"
+   },
+   "country": {
+      "message": "国家"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "deleteBrowsingData": {
+      "message": "清除浏览数据"
+   },
+   "deleteBrowsingDataConfirm": {
+      "message": "确定要删除 Cookies、IndexedDB 存储和 DOM 本地存储吗？"
+   },
+   "deleteProxy": {
+      "message": "删除代理"
+   },
+   "disable": {
+      "message": "禁用"
+   },
+   "disableNonProxied": {
+      "message": "禁用非代理连接"
+   },
+   "documentUrl": {
+      "message": "文档 URL"
+   },
+   "duplicate": {
+      "message": "复制"
+   },
+   "enableSync": {
+      "message": "启用同步"
+   },
+   "enableSyncDescription": {
+      "message": "同步全局排除项、代理和匹配规则"
+   },
+   "error": {
+      "message": "操作过程中发生错误"
+   },
+   "exclude": {
+      "message": "排除"
+   },
+   "excludeHost": {
+      "message": "排除主机"
+   },
+   "export": {
+      "message": "导出"
+   },
+   "extensionDescription": {
+      "message": "简单易用的高级代理管理工具，适合所有用户"
+   },
+   "extensionName": {
+      "message": "FoxyProxy"
+   },
+   "extensionNameBasic": {
+      "message": "FoxyProxy 基础版"
+   },
+   "fileTypeError": {
+      "message": "不支持的文件格式"
+   },
+   "getAssociatedDomains": {
+      "message": "获取关联域名"
+   },
+   "getLocation": {
+      "message": "获取位置"
+   },
+   "globalExclude": {
+      "message": "全局排除列表"
+   },
+   "globalExcludeDescription": {
+      "message": "无需通过代理访问的主机列表"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "hostDotError": {
+      "message": "主机中的 '*' 必须是唯一字符或后面紧跟 '.'"
+   },
+   "hostError": {
+      "message": "主机中的 '*' 必须位于开头"
+   },
+   "hostname": {
+      "message": "主机名"
+   },
+   "import": {
+      "message": "导入"
+   },
+   "importFoxyProxyAccount": {
+      "message": "导入 FoxyProxy 账户"
+   },
+   "importFromOlderVersions": {
+      "message": "从旧版本导入"
+   },
+   "importFromURL": {
+      "message": "从 URL 导入"
+   },
+   "importProxyList": {
+      "message": "导入代理列表"
+   },
+   "include": {
+      "message": "包含"
+   },
+   "includeHost": {
+      "message": "包含主机"
+   },
+   "incognito": {
+      "message": "无痕模式"
+   },
+   "incognitoAccessError": {
+      "message": "Firefox 需要授予隐私浏览权限才能修改代理设置。"
+   },
+   "invalidPatternError": {
+      "message": "无效规则"
+   },
+   "ip": {
+      "message": "IP"
+   },
+   "limitWebRTC": {
+      "message": "限制 WebRTC"
+   },
+   "limitWebRTCDescription": {
+      "message": "修改浏览器的 WebRTC 设置"
+   },
+   "location": {
+      "message": "位置"
+   },
+   "log": {
+      "message": "日志"
+   },
+   "mainServer": {
+      "message": "主服务器"
+   },
+   "method": {
+      "message": "请求方法"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "movePattern": {
+      "message": "移动规则"
+   },
+   "moveProxy": {
+      "message": "移动代理"
+   },
+   "notAvailable": {
+      "message": "Chrome 无法获取代理数据（仅 Firefox 支持）"
+   },
+   "openAll": {
+      "message": "展开全部"
+   },
+   "openLinkTabProxy": {
+      "message": "使用新的代理标签页打开链接"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "password": {
+      "message": "密码"
+   },
+   "pattern": {
+      "message": "规则"
+   },
+   "ping": {
+      "message": "Ping"
+   },
+   "plainHost": {
+      "message": "普通主机"
+   },
+   "port": {
+      "message": "端口"
+   },
+   "portError": {
+      "message": "主机名中不能包含端口号"
+   },
+   "proxies": {
+      "message": "代理"
+   },
+   "proxy": {
+      "message": "代理"
+   },
+   "proxyByPatterns": {
+      "message": "按规则代理"
+   },
+   "proxyByPatternsDescription": {
+      "message": "使用当前启用的代理规则测试 URL"
+   },
+   "proxyDNS": {
+      "message": "代理 DNS"
+   },
+   "proxyOnly": {
+      "message": "仅使用代理"
+   },
+   "publicInterfaceOnly": {
+      "message": "仅公共网络接口"
+   },
+   "publicPrivateInterfaces": {
+      "message": "公共和私有网络接口"
+   },
+   "random": {
+      "message": "随机"
+   },
+   "restoreDefaults": {
+      "message": "恢复默认设置"
+   },
+   "result": {
+      "message": "结果"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "schemeError": {
+      "message": "协议中的 '*' 必须是唯一字符"
+   },
+   "server": {
+      "message": "服务器"
+   },
+   "setPassword": {
+      "message": "设置密码"
+   },
+   "setPort": {
+      "message": "设置端口"
+   },
+   "setProxy": {
+      "message": "设置代理"
+   },
+   "setTabProxy": {
+      "message": "设置标签页代理"
+   },
+   "setTitle": {
+      "message": "设置标题"
+   },
+   "setType": {
+      "message": "设置类型"
+   },
+   "setUsername": {
+      "message": "设置用户名"
+   },
+   "shortcut": {
+      "message": "快捷键"
+   },
+   "shortcutDescription": {
+      "message": "预先选择一个代理并绑定到快捷键操作"
+   },
+   "storeLocally": {
+      "message": "本地存储"
+   },
+   "tabProxy": {
+      "message": "标签页代理"
+   },
+   "test": {
+      "message": "测试"
+   },
+   "tester": {
+      "message": "规则测试器"
+   },
+   "testerDescription": {
+      "message": "测试规则与 URL 的匹配情况"
+   },
+   "theme": {
+      "message": "主题"
+   },
+   "themeDescription": {
+      "message": "选择其他主题"
+   },
+   "time": {
+      "message": "时间"
+   },
+   "title": {
+      "message": "标题"
+   },
+   "togglePassword": {
+      "message": "显示密码"
+   },
+   "toggleWebRTC": {
+      "message": "切换 WebRTC"
+   },
+   "toggleWebRTCDescription": {
+      "message": "切换 WebRTC（仅 Firefox）"
+   },
+   "type": {
+      "message": "类型"
+   },
+   "unsetTabProxy": {
+      "message": "取消标签页代理"
+   },
+   "unsupportedSchemeError": {
+      "message": "不支持的协议"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "username": {
+      "message": "用户名"
+   },
+   "view": {
+      "message": "查看"
+   },
+   "wildcard": {
+      "message": "通配符"
+   }
+}

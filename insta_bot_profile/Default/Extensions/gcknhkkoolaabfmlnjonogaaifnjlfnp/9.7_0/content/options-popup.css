@@ -1,0 +1,50 @@
+/* ----- popup ----- */
+dialog.popup {
+  border-width: 1px;
+  padding: 0;
+
+  &:open {
+    display: grid;
+  }
+
+  span {
+    background-color: var(--bg-alt);
+    display: grid;
+    place-content: center end;
+    padding: 0 0.8em;
+    cursor: pointer;
+    font-size: 0.9em;
+    border-radius: 0.5em 0.5em 0 0;
+    /* set height to maintain the same result in chrome/firefox */
+    height: 2em;
+
+    &:hover {
+      background-color: var(--hover);
+    }
+  }
+
+  textarea {
+    width: 50vw;
+    height: 50vh;
+    outline: none;
+    padding: 0.5em;
+    resize: both;
+
+    &:hover {
+      background-color: var(--bg-alt) !important;
+    }
+  }
+
+  select {
+    display: none;
+
+    &.on {
+      display: unset;
+    }
+  }
+}
+
+@keyframes fade-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}

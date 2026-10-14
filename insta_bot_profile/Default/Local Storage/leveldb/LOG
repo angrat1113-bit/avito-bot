@@ -1,0 +1,18 @@
+2026/09/18-00:09:16.115 65e0 Reusing MANIFEST D:\avito-bot\insta_bot_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/18-00:09:16.127 65e0 Recovering log #3
+2026/09/18-00:09:16.132 65e0 Reusing old log D:\avito-bot\insta_bot_profile\Default\Local Storage\leveldb/000003.log 
+2026/09/18-00:09:39.931 65e0 Level-0 table #5: started
+2026/09/18-00:09:39.950 65e0 Level-0 table #5: 40562 bytes OK
+2026/09/18-00:09:39.953 65e0 Delete type=0 #3
+2026/09/18-00:43:34.287 4ae4 Level-0 table #7: started
+2026/09/18-00:43:34.329 4ae4 Level-0 table #7: 14661 bytes OK
+2026/09/18-00:43:34.333 4ae4 Delete type=0 #4
+2026/09/18-01:06:34.295 4ae4 Level-0 table #9: started
+2026/09/18-01:06:34.312 4ae4 Level-0 table #9: 14731 bytes OK
+2026/09/18-01:06:34.319 4ae4 Delete type=0 #6
+2026/09/18-01:32:34.288 4ae4 Level-0 table #11: started
+2026/09/18-01:32:34.293 4ae4 Level-0 table #11: 16138 bytes OK
+2026/09/18-01:32:34.295 4ae4 Delete type=0 #8
+2026/09/18-02:06:59.910 4ae4 Level-0 table #13: started
+2026/09/18-02:06:59.915 4ae4 Level-0 table #13: 18280 bytes OK
+2026/09/18-02:06:59.916 4ae4 Delete type=0 #10

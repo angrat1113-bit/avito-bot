@@ -1,0 +1,368 @@
+{
+   "about": {
+      "message": "Про програму"
+   },
+   "add": {
+      "message": "Додати"
+   },
+   "addContainerPrompt": {
+      "message": "Будь ласка, введіть ID контейнера."
+   },
+   "all": {
+      "message": "Усі"
+   },
+   "altServer": {
+      "message": "Альтернативний сервер"
+   },
+   "autoBackup": {
+      "message": "Автоматичне резервне копіювання"
+   },
+   "autoBackupDescription": {
+      "message": "Автоматично зберігати резервну копію налаштувань у папку «Завантаження» під час збереження"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bulkEdit": {
+      "message": "Масове редагування"
+   },
+   "city": {
+      "message": "Місто"
+   },
+   "closeAll": {
+      "message": "Закрити всі"
+   },
+   "color": {
+      "message": "Колір"
+   },
+   "container": {
+      "message": "Контейнер"
+   },
+   "containerDescription": {
+      "message": "Проксі для режиму інкогніто та контейнерів (лише для Firefox)"
+   },
+   "controlledByOtherExtensions": {
+      "message": "Налаштування керуються іншими розширеннями."
+   },
+   "country": {
+      "message": "Країна"
+   },
+   "default": {
+      "message": "За замовчуванням"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "deleteBrowsingData": {
+      "message": "Видалити дані вебперегляду"
+   },
+   "deleteBrowsingDataConfirm": {
+      "message": "Ви впевнені, що хочете видалити файли cookie, сховище indexedDB та локальне сховище DOM?"
+   },
+   "deleteConfirm": {
+      "message": "Ви впевнені, що хочете видалити?"
+   },
+   "deleteProxy": {
+      "message": "Видалити проксі"
+   },
+   "disable": {
+      "message": "Вимкнути"
+   },
+   "disableNonProxied": {
+      "message": "Вимкнути з’єднання без проксі"
+   },
+   "documentUrl": {
+      "message": "URL документа"
+   },
+   "duplicate": {
+      "message": "Дублювати"
+   },
+   "enableSync": {
+      "message": "Увімкнути синхронізацію"
+   },
+   "enableSyncDescription": {
+      "message": "Синхронізувати глобальні виключення, проксі-сервери та шаблони"
+   },
+   "error": {
+      "message": "Під час виконання операції сталася помилка"
+   },
+   "exclude": {
+      "message": "Виключити"
+   },
+   "excludeHost": {
+      "message": "Виключити хост"
+   },
+   "export": {
+      "message": "Експортувати"
+   },
+   "extensionDescription": {
+      "message": "Зручний та розширений інструмент керування проксі-серверами для кожного"
+   },
+   "extensionName": {
+      "message": "FoxyProxy"
+   },
+   "extensionNameBasic": {
+      "message": "FoxyProxy Basic"
+   },
+   "fileParseError": {
+      "message": "Сталася помилка під час обробки файлу"
+   },
+   "fileReadError": {
+      "message": "Сталася помилка під час читання файлу"
+   },
+   "fileTypeError": {
+      "message": "Непідтримуваний формат файлу"
+   },
+   "getAssociatedDomains": {
+      "message": "Отримати пов’язані домени"
+   },
+   "getLocation": {
+      "message": "Визначити розташування"
+   },
+   "globalExclude": {
+      "message": "Глобальні виключення"
+   },
+   "globalExcludeDescription": {
+      "message": "Список хостів, які не повинні проходити через проксі"
+   },
+   "help": {
+      "message": "Довідка"
+   },
+   "hostDotError": {
+      "message": "Символ «*» у хості має бути єдиним або супроводжуватися крапкою «.»"
+   },
+   "hostError": {
+      "message": "Символ «*» у хості має бути на початку"
+   },
+   "hostname": {
+      "message": "Ім’я хоста"
+   },
+   "hostnamePortError": {
+      "message": "Відсутнє ім’я хоста або порт"
+   },
+   "import": {
+      "message": "Імпортувати"
+   },
+   "importFoxyProxyAccount": {
+      "message": "Імпортувати обліковий запис FoxyProxy"
+   },
+   "importFromOlderVersions": {
+      "message": "Імпортувати зі старіших версій"
+   },
+   "importFromURL": {
+      "message": "Імпортувати з URL"
+   },
+   "importProxyList": {
+      "message": "Імпортувати список проксі"
+   },
+   "include": {
+      "message": "Включити"
+   },
+   "includeHost": {
+      "message": "Включити хост"
+   },
+   "incognito": {
+      "message": "Інкогніто"
+   },
+   "incognitoAccessError": {
+      "message": "Firefox потребує дозволу на роботу в приватному вікні для налаштування проксі."
+   },
+   "invalidPatternError": {
+      "message": "Недійсний шаблон"
+   },
+   "ip": {
+      "message": "IP"
+   },
+   "limitWebRTC": {
+      "message": "Обмежити WebRTC"
+   },
+   "limitWebRTCDescription": {
+      "message": "Змінити налаштування WebRTC у браузері"
+   },
+   "location": {
+      "message": "Розташування"
+   },
+   "log": {
+      "message": "Журнал"
+   },
+   "mainServer": {
+      "message": "Головний сервер"
+   },
+   "method": {
+      "message": "Метод"
+   },
+   "more": {
+      "message": "Додатково"
+   },
+   "movePattern": {
+      "message": "Перемістити шаблон"
+   },
+   "moveProxy": {
+      "message": "Перемістити проксі"
+   },
+   "notAvailable": {
+      "message": "Дані проксі недоступні в Chrome (лише для Firefox)"
+   },
+   "openAll": {
+      "message": "Відкрити всі"
+   },
+   "openLinkTabProxy": {
+      "message": "Відкрити посилання з проксі в новій вкладці"
+   },
+   "options": {
+      "message": "Параметри"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "pattern": {
+      "message": "Шаблон"
+   },
+   "patterns": {
+      "message": "Шаблони"
+   },
+   "ping": {
+      "message": "Пінг"
+   },
+   "plainHost": {
+      "message": "Простий хост"
+   },
+   "port": {
+      "message": "Порт"
+   },
+   "portError": {
+      "message": "Хост не повинен містити номер порту"
+   },
+   "proxies": {
+      "message": "Проксі"
+   },
+   "proxy": {
+      "message": "Проксі"
+   },
+   "proxyByPatterns": {
+      "message": "Проксі за шаблонами"
+   },
+   "proxyByPatternsDescription": {
+      "message": "Перевірити URL-адресу за активними шаблонами проксі"
+   },
+   "proxyDNS": {
+      "message": "DNS через проксі"
+   },
+   "proxyOnly": {
+      "message": "Лише через проксі"
+   },
+   "publicInterfaceOnly": {
+      "message": "Лише публічний інтерфейс"
+   },
+   "publicPrivateInterfaces": {
+      "message": "Публічний та приватний інтерфейси"
+   },
+   "quickAdd": {
+      "message": "Швидке додавання"
+   },
+   "random": {
+      "message": "Випадковий"
+   },
+   "regexError": {
+      "message": "Помилка створення регулярного виразу (RegExp) для шаблону"
+   },
+   "restoreDefaults": {
+      "message": "Відновити за замовчуванням"
+   },
+   "restoreDefaultsConfirm": {
+      "message": "Ви впевнені, що хочете скинути всі налаштування до стандартних?"
+   },
+   "result": {
+      "message": "Результат"
+   },
+   "saveOptions": {
+      "message": "Зберегти"
+   },
+   "schemeError": {
+      "message": "Символ «*» у схемі має бути єдиним символом"
+   },
+   "server": {
+      "message": "Сервер"
+   },
+   "setPassword": {
+      "message": "Встановити пароль"
+   },
+   "setPort": {
+      "message": "Встановити порт"
+   },
+   "setProxy": {
+      "message": "Встановити проксі"
+   },
+   "setTabProxy": {
+      "message": "Встановити проксі для вкладки"
+   },
+   "setTitle": {
+      "message": "Встановити назву"
+   },
+   "setType": {
+      "message": "Встановити тип"
+   },
+   "setUsername": {
+      "message": "Встановити ім’я користувача"
+   },
+   "shortcut": {
+      "message": "Комбінація клавіш"
+   },
+   "shortcutDescription": {
+      "message": "Попередньо виберіть проксі для прив’язки до дії за допомогою комбінації клавіш"
+   },
+   "storeLocally": {
+      "message": "Зберігати локально"
+   },
+   "syncError": {
+      "message": "Помилка синхронізації"
+   },
+   "tabProxy": {
+      "message": "Проксі для вкладки"
+   },
+   "test": {
+      "message": "Перевірити"
+   },
+   "tester": {
+      "message": "Тестувати шаблони"
+   },
+   "testerDescription": {
+      "message": "Перевірити шаблон на URL-адресах"
+   },
+   "theme": {
+      "message": "Тема"
+   },
+   "time": {
+      "message": "Час"
+   },
+   "title": {
+      "message": "Назва"
+   },
+   "togglePassword": {
+      "message": "Показати/приховати пароль"
+   },
+   "type": {
+      "message": "Тип"
+   },
+   "unsetTabProxy": {
+      "message": "Скинути проксі для вкладки"
+   },
+   "unsupportedSchemeError": {
+      "message": "Непідтримувана схема"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "userPassError": {
+      "message": "Відсутнє ім’я користувача або пароль"
+   },
+   "username": {
+      "message": "Ім’я користувача"
+   },
+   "view": {
+      "message": "Переглянути"
+   },
+   "wildcard": {
+      "message": "Символ підстановки (Wildcard)"
+   }
+}
